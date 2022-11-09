@@ -1,0 +1,58 @@
+@media (min-width: 992px) and (max-width: 1199px){}
+@media (min-width: 768px) and (max-width: 991px){}
+@media (min-width: 576px) and (max-width: 767px){}
+
+@media (min-width: 320px){
+/* Breckpoint start */
+.col-mini-1 {
+    flex: 0 0 auto;
+    width: 8.33333333% !important;
+  }
+  .col-mini-2 {
+    flex: 0 0 auto;
+    width: 16.66666667% !important;
+  }
+  .col-mini-3 {
+    flex: 0 0 auto;
+    width: 25%;
+  }
+  .col-mini-4 {
+    flex: 0 0 auto;
+    width: 33.33333333% !important;
+  }
+  .col-mini-5 {
+    flex: 0 0 auto;
+    width: 41.66666667% !important;
+  }
+  .col-mini-6 {
+    flex: 0 0 auto;
+    width: 50%;
+  }
+  .col-mini-7 {
+    flex: 0 0 auto;
+    width: 58.33333333% !important;
+  }
+  .col-mini-8 {
+    flex: 0 0 auto;
+    width: 66.66666667% !important;
+  }
+  .col-mini-9 {
+    flex: 0 0 auto;
+    width: 75%;
+  }
+  .col-mini-10 {
+    flex: 0 0 auto;
+    width: 83.33333333% !important;
+  }
+  .col-mini-11 {
+    flex: 0 0 auto;
+    width: 91.66666667% !important;
+  }
+  .col-mini-12 {
+    flex: 0 0 auto;
+    width: 100%;
+  }
+/* Breckpoint End */
+  
+}
+@media (min-width: 250px) and (max-width: 319){}
